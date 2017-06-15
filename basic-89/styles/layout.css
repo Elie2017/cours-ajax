@@ -151,3 +151,26 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 
 #footer{padding:20px 0;}
 #footer p{margin:0; padding:0;}
+
+
+
+/*--------------Formulaire-----------------------*/
+
+
+
+input, label, select, option {
+	display: block;
+}
+
+
+input {
+	width: 250px;
+	height: 25px;
+}
+
+
+label{
+	font-size: 20px;
+	font-weight: 900;
+	font-color: black;
+}
